@@ -1,0 +1,23 @@
+body { 
+  background-color: rgba(0, 0, 0, 0); 
+  margin: 0px auto; 
+  overflow: hidden; 
+}
+
+.stream-chat .stream-chat-header { 
+  display: none !important; 
+}
+
+.stream-chat .chat-input { 
+  display: none !important; 
+}
+
+body, 
+.chat-room, 
+.chat-line__moderation, 
+.chat-line__status, 
+.chat-line__message, 
+.chat-author__display-name { 
+  color: #FFFFFF !important; 
+  background-color: rgba(0, 0, 0, 0) !important; 
+}
